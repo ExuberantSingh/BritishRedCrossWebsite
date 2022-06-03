@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-15T19:05:00 IST" name="Suite" finished-at="2022-03-15T19:05:39 IST" duration-ms="38494">
+    <groups>
+    </groups>
+    <test started-at="2022-03-15T19:05:00 IST" name="Test" finished-at="2022-03-15T19:05:39 IST" duration-ms="38494">
+      <class name="SeleniumGrid.TestTwo">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.TestTwo@2a265ea9]" started-at="2022-03-15T19:05:21 IST" name="setUp" finished-at="2022-03-15T19:05:31 IST" duration-ms="10042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testTwo()[pri:0, instance:SeleniumGrid.TestTwo@2a265ea9]" started-at="2022-03-15T19:05:31 IST" name="testTwo" finished-at="2022-03-15T19:05:36 IST" duration-ms="5726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTwo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.TestTwo@2a265ea9]" started-at="2022-03-15T19:05:36 IST" name="tearDown" finished-at="2022-03-15T19:05:39 IST" duration-ms="2322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumGrid.TestTwo -->
+      <class name="SeleniumGrid.TestOne">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SeleniumGrid.TestOne@4d5650ae]" started-at="2022-03-15T19:05:00 IST" name="setUp" finished-at="2022-03-15T19:05:15 IST" duration-ms="14906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testOne()[pri:0, instance:SeleniumGrid.TestOne@4d5650ae]" started-at="2022-03-15T19:05:15 IST" name="testOne" finished-at="2022-03-15T19:05:19 IST" duration-ms="4114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SeleniumGrid.TestOne@4d5650ae]" started-at="2022-03-15T19:05:19 IST" name="tearDown" finished-at="2022-03-15T19:05:21 IST" duration-ms="1319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumGrid.TestOne -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
